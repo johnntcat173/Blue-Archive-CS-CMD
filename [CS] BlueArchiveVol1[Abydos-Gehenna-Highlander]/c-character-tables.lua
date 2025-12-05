@@ -538,6 +538,22 @@ BA_CHAR[E_MODEL_SUOU] = {
     cmdId = 'suou'
 }
 
+BA_CHAR[E_MODEL_TRAINMG] = {
+    name = "train mg",
+    description = {
+        "the peaceful morning...."
+    },
+    school = "Highlander",
+    credit = "JOHN FREEMAN",
+    color = { r = 200, g = 200, b = 212 },
+    model = E_MODEL_TRAINMG,
+    forceChar = CT_MARIO,
+    lifeIcon = TEX_TRAINMG,
+    voiceTable = VT_NOVOICE,
+    altCostume = nil,
+    cmdId = 'trainmg'
+}
+
 -- ================
 -- Highlander End
 -- ================
