@@ -571,6 +571,7 @@ BA_CHAR[E_MODEL_TRAINMG] = {
     altCostume = nil,
     cmdId = 'trainmg'
 }
+
 -- ================
 -- Highlander End
 -- ================
